@@ -13,3 +13,5 @@ Using Burp Suite intercept and modify a request that checks the stock level insi
 Modify the storeID parameter, giving it the value `1|whoami`
 
 ![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/90524502-44a0-4b81-abf8-ba7721711a08)
+
+The name of the current user is displayed and the lab is solved succcessfully
