@@ -72,6 +72,8 @@ now using the sniper attack, the first letter is found to be `6`
 
 ![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/c8d5bd46-6071-493f-826a-9f892a53bdfc)
 
+### Determining the Complete password
+
 Now using cluster bomb to find complete password
 
 ![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/3fd13c58-93da-4eab-999c-fec407fb7af1)
