@@ -18,11 +18,11 @@ giving 2 `'` the error is gone so the syntax is right
 
 ![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/9948e1fd-f7a3-41e2-b8ba-2d469451d7d5)
 
-now giving `''||(SELECT ''FROM )||'` we get error
+now giving `'||(SELECT ''FROM )||'` we get error
 
 ![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/a079ecfd-cea4-454c-a4e9-718d5531d4b1)
 
-now giving `''||(SELECT ''FROM dual)||'` the error is gone so the syntax is correct.
+now giving `'||(SELECT ''FROM dual)||'` the error is gone so the syntax is correct.
 
 ![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/25613ed2-63fb-4677-ad7a-bdea4c9e9537)
 
