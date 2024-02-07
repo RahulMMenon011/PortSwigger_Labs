@@ -8,6 +8,8 @@ The application serves the images for the product catalog from this location. Yo
 
 execute the whoami command and retrieve the output to solve the lab
 
+### Solution
+
 Filled the submit form and captured the http response
 
 ![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/7598b92c-1440-4d74-bb97-9b9815bcf0cf)
