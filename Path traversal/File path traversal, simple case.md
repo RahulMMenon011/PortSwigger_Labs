@@ -4,7 +4,7 @@ To solve the lab, retrieve the contents of the /etc/passwd file.
 
 ### Solution
 
-Opened an image in the new tab and used intercept to capture that http request
+Use Burp to intercept and modify a request that fetches product image
 
 ![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/db40890c-aa4b-4c6e-8c1f-0f3d6bb3ffe6)
 
