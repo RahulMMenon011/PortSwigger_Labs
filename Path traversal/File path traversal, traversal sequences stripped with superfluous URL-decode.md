@@ -12,4 +12,5 @@ We used the double URL encoding `%252e%252e%252f` for `../`
 
 Lab solved succesfully
 
-![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/8e95789a-a5f6-4b09-b983-9908b8f13245)
+![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/da59b1c3-2aa2-4bb7-9363-d48f4f19466b)
+
