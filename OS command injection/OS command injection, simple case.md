@@ -4,6 +4,8 @@ The application executes a shell command containing user-supplied product and st
 
 To solve the lab, execute the whoami command to determine the name of the current user.
 
+### Solution
+
 Using Burp Suite intercept and modify a request that checks the stock level inside the product details page.
 
 ![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/f49a1973-a981-441e-951d-a7ee8a1c99f8)
