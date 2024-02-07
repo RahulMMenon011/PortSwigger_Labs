@@ -13,3 +13,5 @@ Now give the path `../../../etc/passwd` in the location of the file name
 we are able to access the passwd file.
 
 Lab solved succesfully
+
+![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/031cc864-1b2f-4710-9874-a20f03a3c48e)
