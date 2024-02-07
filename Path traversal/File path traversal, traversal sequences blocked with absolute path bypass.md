@@ -4,6 +4,8 @@ The application blocks traversal sequences but treats the supplied filename as b
 
 To solve the lab, retrieve the contents of the /etc/passwd file.
 
+### Solution
+
 The image is opened in new tab and that http request is intercepted.
 
 ![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/ea9e7dd1-171a-4fca-9bd6-772899b2cce4)
