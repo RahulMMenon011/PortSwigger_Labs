@@ -27,3 +27,23 @@ modified the value, now we can be sure that there exist a user called `administr
 modified the query to get the password
 
 the password length is greater than 1, now we will find the password length using intruder.
+
+![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/8e63405d-c620-40f6-894c-97e16b74a33c)
+
+the password is between 1 and 25, we can use intruder to find the correct length of the password.
+
+### finding out password length
+
+![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/1f0b257e-bb29-4cc6-862b-a3afe2238184)
+
+from this we could find out the password length is 20
+
+got the password using clusterbomb attack
+
+![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/32a373fd-3147-48e6-aad5-ce52af0dfae2)
+
+logged in as administrator and completed lab succesfully
+
+![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/d6da4eca-c351-4780-a7d8-72d4a614f61e)
+
+
