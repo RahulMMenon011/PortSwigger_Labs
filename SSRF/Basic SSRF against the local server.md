@@ -3,8 +3,11 @@ This lab has a stock check feature which fetches data from an internal system.
 To solve the lab, change the stock check URL to access the admin interface at http://localhost/admin and delete the user carlos.
 
 ### Solution
+Tried visiting the admin page from URL directly by addidng the `/admin` parameter in the homepage URL, but access was denied.
 
-Used the check stock button, captured the http request via burp intruder
+![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/5c450772-f82c-4632-b6d7-6401107ad889)
+
+Used the check stock button, captured the http request via burp intruder to modify the stock API.
 
 ![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/a51d7e86-de1e-4bbb-bfb9-5ac64549c94c)
 
