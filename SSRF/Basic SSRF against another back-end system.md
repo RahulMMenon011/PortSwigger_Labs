@@ -1,6 +1,4 @@
-This lab has a stock check feature which fetches data from an internal system.
-
-To solve the lab, use the stock check functionality to scan the internal 192.168.0.X range for an admin interface on port 8080, then use it to delete the user carlos.
+![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/b3d522c4-8439-4c63-8910-d2a1a5b49fce)
 
 ### Solution
 
