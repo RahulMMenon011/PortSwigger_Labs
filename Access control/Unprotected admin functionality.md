@@ -2,6 +2,12 @@
 
 ### Solution
 
+We are trying to access the administrator panel through the URL
+
+firstly tried the `/admin`
+
+![WhatsApp Image 2024-03-13 at 14 15 17_66508766](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/8226daa8-aa68-4818-a842-d54786851187)
+
 Tired appending the `/robots.txt` to the URL
 
 ![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/6d18aaab-fa8e-45f3-926e-3f70821d46da)
