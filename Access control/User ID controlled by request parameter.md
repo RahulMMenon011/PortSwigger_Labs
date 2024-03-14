@@ -1,6 +1,6 @@
 ![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/72a287d0-134f-49ae-9240-43333c8b1f51)
 
-###Solution
+### Solution
 
 Signed in to the account using the given credentials `wiener:peter`
 
