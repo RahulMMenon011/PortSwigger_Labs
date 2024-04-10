@@ -1,4 +1,4 @@
-![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/1b4eebf7-e26b-41c8-a7cd-e60ee6fd8ca7)![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/35d2fb8f-1693-4139-87f9-d54bf8e7b8d3)
+![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/35d2fb8f-1693-4139-87f9-d54bf8e7b8d3)
 
 ### Solution
 
