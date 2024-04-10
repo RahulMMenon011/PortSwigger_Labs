@@ -25,6 +25,11 @@ now the payload
 ```js
 \"-alert(1)}//
 ```
+
+>As you have injected a backslash and the site isn't escaping them, when the JSON response attempts to escape the opening double-quotes character, it adds a second backslash. The resulting double-backslash causes the escaping to be effectively canceled out. This means that the double-quotes are processed unescaped, which closes the string that should contain the search term.
+
+>An arithmetic operator (in this case the subtraction operator) is then used to separate the expressions before the alert() function is called. Finally, a closing curly bracket and two forward slashes close the JSON object early and comment out what would have been the rest of the object.
+
 ![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/569081a6-b6d6-4215-b1a9-4d4bfb53c245)
 
 ![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/53308f54-eaba-4096-b778-61d7f5e0d4ad)
