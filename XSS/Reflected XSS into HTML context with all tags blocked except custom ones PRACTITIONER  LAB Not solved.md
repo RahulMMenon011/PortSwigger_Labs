@@ -52,3 +52,6 @@ now we give payload at exploit server
 ![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/403bbf3d-dc70-40c8-99d6-393357a314bb)
 
 now we send the exploit
+
+![image](https://github.com/RahulMMenon011/PortSwigger_Labs/assets/140642506/1501f597-47f0-4c7d-baba-76743e622b82)
+
